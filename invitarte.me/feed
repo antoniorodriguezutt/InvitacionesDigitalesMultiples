@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Invitarte</title>
+	<atom:link href="https://invitarte.me/feed" rel="self" type="application/rss+xml" />
+	<link>https://invitarte.me/</link>
+	<description>Invitaciones digitales</description>
+	<lastBuildDate>Thu, 22 May 2025 00:01:46 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://invitarte.me/wp-content/uploads/2024/01/cropped-INVITARTE-icon-06-32x32.png</url>
+	<title>Invitarte</title>
+	<link>https://invitarte.me/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>004140-libro</title>
+		<link>https://invitarte.me/004140-libro</link>
+					<comments>https://invitarte.me/004140-libro#respond</comments>
+		
+		<dc:creator><![CDATA[Oscar]]></dc:creator>
+		<pubDate>Thu, 15 May 2025 22:59:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://invitarte.me/?p=174171</guid>
+
+					<description><![CDATA[<p>La entrada <a href="https://invitarte.me/004140-libro">004140-libro</a> se publicó primero en <a href="https://invitarte.me">Invitarte</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="174171" class="elementor elementor-174171" data-elementor-post-type="post">
+				<div class="e-con-with-custom-width e-con-gap-no elementor-element elementor-element-55bd080 e-con-full e-flex sc_inner_width_none sc_layouts_column_icons_position_left e-con e-parent" data-id="55bd080" data-element_type="container">
+		<div class="elementor-element elementor-element-e817721 e-con-full e-flex sc_inner_width_none sc_layouts_column_icons_position_left e-con e-child" data-id="e817721" data-element_type="container">
+				<div class="elementor-element elementor-element-5be8057 sc_fly_static elementor-widget elementor-widget-spacer" data-id="5be8057" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-dd369d3 sc_layouts_column_align_center sc_layouts_column e-flex e-con-boxed sc_inner_width_none sc_layouts_column_icons_position_left e-con e-parent" data-id="dd369d3" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f404501 sc_fly_static elementor-widget elementor-widget-shortcode" data-id="f404501" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"><div class="_df_book df-lite" id="df_174169"  _slug="004140-libro" data-title="004140-libro" wpoptions="true" thumbtype="" ></div><script class="df-shortcode-script" nowprocket type="application/javascript">window.option_df_174169 = {"outline":[],"backgroundColor":"#D0CEC7","hard":"cover","autoEnableOutline":"false","autoEnableThumbnail":"false","overwritePDFOutline":"false","direction":"1","pageSize":"0","source":"https:\/\/invitarte.me\/wp-content\/uploads\/2025\/05\/004140-libro-V2-c.pdf","wpOptions":"true"}; if(window.DFLIP && window.DFLIP.parseBooks){window.DFLIP.parseBooks();}</script>	</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="e-con-with-custom-width elementor-element elementor-element-a9274a7 e-flex e-con-boxed sc_inner_width_none sc_layouts_column_icons_position_left e-con e-parent" data-id="a9274a7" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-47d4b5e elementor-widget__width-initial elementor-fixed e-transform animated-slow animation_type_block sc_fly_static elementor-invisible elementor-widget elementor-widget-vapfem_audio_player" data-id="47d4b5e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;fixed&quot;,&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.4&quot;,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;bounceIn&quot;,&quot;_animation_mobile&quot;:&quot;bounceIn&quot;,&quot;_animation_delay&quot;:&quot;1500&quot;,&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="vapfem_audio_player.default">
+				<div class="elementor-widget-container">
+					        <audio
+            class="vapfem-player vapfem-audio"
+            data-settings='{"seek_time":10,"volume":1,"muted":false,"keyboard_focused":true,"keyboard_global":false,"tooltips_seek":true,"invertTime":true,"speed_selected":"1","controls":["play"],"debug_mode":false}'
+                        loop            preload="upload"
+        >
+            <source
+                src="https://invitarte.me/wp-content/uploads/2024/11/004140-musica.mp3"
+                type="audio/mp3"
+            />
+            Your browser does not support the audio element.        </audio>
+        				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<p>La entrada <a href="https://invitarte.me/004140-libro">004140-libro</a> se publicó primero en <a href="https://invitarte.me">Invitarte</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://invitarte.me/004140-libro/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://invitarte.me/wp-content/uploads/2024/11/004140-musica.mp3" length="3956946" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>004414 &#8211; libro</title>
+		<link>https://invitarte.me/004414-libro</link>
+					<comments>https://invitarte.me/004414-libro#respond</comments>
+		
+		<dc:creator><![CDATA[Israel]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 19:43:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://invitarte.me/?p=145204</guid>
+
+					<description><![CDATA[<p>La entrada <a href="https://invitarte.me/004414-libro">004414 &#8211; libro</a> se publicó primero en <a href="https://invitarte.me">Invitarte</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="145204" class="elementor elementor-145204" data-elementor-post-type="post">
+				<div class="e-con-gap-no elementor-element elementor-element-55bd080 e-con-full e-flex sc_inner_width_none sc_layouts_column_icons_position_left e-con e-parent" data-id="55bd080" data-element_type="container">
+		<div class="elementor-element elementor-element-e817721 e-con-full e-flex sc_inner_width_none sc_layouts_column_icons_position_left e-con e-child" data-id="e817721" data-element_type="container">
+				<div class="elementor-element elementor-element-5be8057 sc_fly_static elementor-widget elementor-widget-spacer" data-id="5be8057" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-dd369d3 sc_layouts_column_align_center sc_layouts_column e-flex e-con-boxed sc_inner_width_none sc_layouts_column_icons_position_left e-con e-parent" data-id="dd369d3" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f404501 sc_fly_static elementor-widget elementor-widget-shortcode" data-id="f404501" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-shortcode"><div class="_df_book df-lite" id="df_145202"  _slug="004414-libro" data-title="004414-libro" wpoptions="true" thumbtype="" ></div><script class="df-shortcode-script" nowprocket type="application/javascript">window.option_df_145202 = {"outline":[],"backgroundColor":"#fafafa","hard":"cover","autoEnableOutline":"false","autoEnableThumbnail":"false","overwritePDFOutline":"false","direction":"1","pageSize":"0","source":"https:\/\/invitarte.me\/wp-content\/uploads\/2025\/03\/004414-v4-Libro.pdf","wpOptions":"true"}; if(window.DFLIP && window.DFLIP.parseBooks){window.DFLIP.parseBooks();}</script></div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="e-con-gap-no elementor-element elementor-element-a4e108b e-flex e-con-boxed sc_inner_width_none sc_layouts_column_icons_position_left e-con e-parent" data-id="a4e108b" data-element_type="container">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>
+		<p>La entrada <a href="https://invitarte.me/004414-libro">004414 &#8211; libro</a> se publicó primero en <a href="https://invitarte.me">Invitarte</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://invitarte.me/004414-libro/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

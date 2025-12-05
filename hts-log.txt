@@ -1,0 +1,325 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 Dec 2025 22:01:01 at https://invitarte.me/demo-arlet-carlos +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://invitarte.me/demo-arlet-carlos -O1 "C:\Users\dell\Desktop\cc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:02:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invitarte.me/xmlrpc.php?rsd (from https://invitarte.me/demo-arlet-carlos)
+22:02:14	Warning: 	Moved Permanently for https://invitarte.me/?p=35849
+22:02:14	Warning: 	File has moved from https://invitarte.me/?p=35849 to https://invitarte.me/demo-arlet-carlos
+22:02:14	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://invitarte.me/demo-arlet-carlos)
+22:02:14	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/002428-2-scaled-1.jpg (from https://invitarte.me/demo-arlet-carlos)
+22:02:14	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/002428-3-scaled-1.jpg (from https://invitarte.me/demo-arlet-carlos)
+22:02:14	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/002428-4-scaled-1.jpg (from https://invitarte.me/demo-arlet-carlos)
+22:02:14	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/002428-5-scaled-1.jpg (from https://invitarte.me/demo-arlet-carlos)
+22:02:14	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/002428-6-scaled-1.jpg (from https://invitarte.me/demo-arlet-carlos)
+22:02:14	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/002428-Portada-scaled-1.jpg (from https://invitarte.me/demo-arlet-carlos)
+22:02:22	Error: 	"Bad Request" (400) at link https://invitarte.me/wp-admin/admin-ajax.php (from https://invitarte.me/demo-arlet-carlos)
+22:02:22	Error: 	"Forbidden" (403) at link https://invitarte.me/wp-content/plugins/3d-flipbook-dflip-lite/assets/ (from https://invitarte.me/demo-arlet-carlos)
+22:02:26	Warning: 	File not parsed, looks like binary: https://invitarte.me/wp-content/plugins/revslider/public/assets/css/openhand.cur
+22:02:26	Warning: 	File not parsed, looks like binary: https://invitarte.me/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+22:02:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://invitarte.me/xmlrpc.php?rsd (from https://invitarte.me/demo-arlet-carlos)
+22:03:01	Warning: 	Moved Permanently for https://invitarte.me/privacy-policy/
+22:03:01	Warning: 	File has moved from https://invitarte.me/privacy-policy/ to https://invitarte.me/privacy-policy
+22:03:02	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://invitarte.me/xmlrpc.php?rsd (from https://invitarte.me/demo-arlet-carlos)
+22:03:03	Warning: 	Moved Permanently for https://invitarte.me/?p=196657
+22:03:03	Warning: 	File has moved from https://invitarte.me/?p=196657 to https://invitarte.me/boda
+22:03:36	Warning: 	Moved Permanently for https://invitarte.me/?p=196724
+22:03:36	Warning: 	File has moved from https://invitarte.me/?p=196724 to https://invitarte.me/xv
+22:04:17	Warning: 	Moved Permanently for https://invitarte.me/?p=110262
+22:04:17	Warning: 	File has moved from https://invitarte.me/?p=110262 to https://invitarte.me/catalogo-invitaciones-boda
+22:07:53	Warning: 	Moved Permanently for https://invitarte.me/?p=198396
+22:07:53	Warning: 	File has moved from https://invitarte.me/?p=198396 to https://invitarte.me/product/invitacion-de-boda-esencia
+22:08:01	Warning: 	Moved Permanently for https://invitarte.me/?p=197810
+22:08:01	Warning: 	File has moved from https://invitarte.me/?p=197810 to https://invitarte.me/product/invitacion-de-boda-estilo
+22:08:01	Warning: 	Moved Permanently for https://invitarte.me/?p=41963
+22:08:01	Warning: 	File has moved from https://invitarte.me/?p=41963 to https://invitarte.me/catalogo-invitaciones-xv
+22:11:21	Warning: 	Moved Permanently for https://invitarte.me/?p=198405
+22:11:21	Warning: 	File has moved from https://invitarte.me/?p=198405 to https://invitarte.me/product/invitacion-de-xv-esencia
+22:11:22	Warning: 	Moved Permanently for https://invitarte.me/?p=198386
+22:11:22	Warning: 	File has moved from https://invitarte.me/?p=198386 to https://invitarte.me/product/invitacion-de-xv
+22:11:22	Warning: 	Moved Permanently for https://invitarte.me/?p=12954
+22:11:22	Warning: 	File has moved from https://invitarte.me/?p=12954 to https://invitarte.me/privacy-policy
+22:11:44	Warning: 	Moved Permanently for https://invitarte.me/xvs/
+22:11:44	Warning: 	File has moved from https://invitarte.me/xvs/ to https://invitarte.me/xvs
+22:11:44	Error: 	"Not Found" (404) at link https://invitarte.me/product/invitacion-de-xvs-v2 (from https://invitarte.me/privacy-policy)
+22:11:44	Warning: 	Moved Permanently for https://invitarte.me/home-boda/
+22:11:44	Warning: 	File has moved from https://invitarte.me/home-boda/ to https://invitarte.me/home-boda
+22:11:45	Warning: 	Moved Permanently for https://invitarte.me/?p=35873
+22:11:45	Warning: 	File has moved from https://invitarte.me/?p=35873 to https://invitarte.me/demo-cristina-uriel
+22:11:45	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/SAVE-THE-DATE-URIEL-_-CRISTINA-MEZCAL-EL-CUERAZO-ALBERTO-GALICIA-FOTOGRAFIA-37-scaled-1.jpg (from https://invitarte.me/demo-cristina-uriel)
+22:11:45	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/SAVE-THE-DATE-URIEL-_-CRISTINA-MEZCAL-EL-CUERAZO-ALBERTO-GALICIA-FOTOGRAFIA-39-scaled-1.jpg (from https://invitarte.me/demo-cristina-uriel)
+22:11:45	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/SAVE-THE-DATE-URIEL-_-CRISTINA-MEZCAL-EL-CUERAZO-ALBERTO-GALICIA-FOTOGRAFIA-44-scaled-1.jpg (from https://invitarte.me/demo-cristina-uriel)
+22:11:45	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/SAVE-THE-DATE-URIEL-_-CRISTINA-MEZCAL-EL-CUERAZO-ALBERTO-GALICIA-FOTOGRAFIA-70-scaled-1.jpg (from https://invitarte.me/demo-cristina-uriel)
+22:11:45	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/SAVE-THE-DATE-URIEL-_-CRISTINA-MEZCAL-EL-CUERAZO-ALBERTO-GALICIA-FOTOGRAFIA-83-scaled-1.jpg (from https://invitarte.me/demo-cristina-uriel)
+22:11:45	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/SAVE-THE-DATE-URIEL-_-CRISTINA-MEZCAL-EL-CUERAZO-ALBERTO-GALICIA-FOTOGRAFIA-90-scaled-1.jpg (from https://invitarte.me/demo-cristina-uriel)
+22:11:45	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/SAVE-THE-DATE-URIEL-_-CRISTINA-MEZCAL-EL-CUERAZO-ALBERTO-GALICIA-FOTOGRAFIA-92-scaled-1.jpg (from https://invitarte.me/demo-cristina-uriel)
+22:11:45	Error: 	"Not Found" (404) at link https://invitarte.me/url_string (from https://invitarte.me/demo-cristina-uriel)
+22:11:46	Warning: 	Moved Permanently for https://invitarte.me/?p=35821
+22:11:46	Warning: 	File has moved from https://invitarte.me/?p=35821 to https://invitarte.me/demo-mariela-zachary
+22:11:46	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_1344-scaled-1.jpeg (from https://invitarte.me/demo-mariela-zachary)
+22:11:46	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_1319-scaled-1.jpeg (from https://invitarte.me/demo-mariela-zachary)
+22:11:46	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_1314-scaled-1.jpeg (from https://invitarte.me/demo-mariela-zachary)
+22:11:46	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_0346-e1736452605310.jpeg (from https://invitarte.me/demo-mariela-zachary)
+22:11:48	Warning: 	Moved Permanently for https://invitarte.me/?p=35968
+22:11:48	Warning: 	File has moved from https://invitarte.me/?p=35968 to https://invitarte.me/demo-kyoko-ricardo
+22:11:48	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Kyoko-y-Ricardo-2.jpg (from https://invitarte.me/demo-kyoko-ricardo)
+22:11:48	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Kyoko-y-Ricardo-1.jpg (from https://invitarte.me/demo-kyoko-ricardo)
+22:11:48	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Kyoko-y-Ricardo-5.jpg (from https://invitarte.me/demo-kyoko-ricardo)
+22:11:48	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Kyoko-y-Ricardo-7.jpg (from https://invitarte.me/demo-kyoko-ricardo)
+22:11:48	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Kyoko-y-Ricardo-6.jpg (from https://invitarte.me/demo-kyoko-ricardo)
+22:11:48	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Kyoko-y-Ricardo-4.jpg (from https://invitarte.me/demo-kyoko-ricardo)
+22:11:48	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Kyoko-y-Ricardo-3.jpg (from https://invitarte.me/demo-kyoko-ricardo)
+22:11:50	Warning: 	Moved Permanently for https://invitarte.me/?p=36198
+22:11:50	Warning: 	File has moved from https://invitarte.me/?p=36198 to https://invitarte.me/demo-less-ivan
+22:11:50	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/7F4658CB-418C-4E3C-A404-262A2C1BDD3E-scaled-1.jpeg (from https://invitarte.me/demo-less-ivan)
+22:11:50	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/A85DF489-E401-49FB-AFA9-1080F4E0E48A-scaled-1.jpeg (from https://invitarte.me/demo-less-ivan)
+22:11:50	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/F83C5E78-AB8B-4AF5-A88E-192DA25E8D55-scaled-1.jpeg (from https://invitarte.me/demo-less-ivan)
+22:11:50	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/DA10A854-AAF4-420B-9EAF-7C18BC908080-scaled-1.jpeg (from https://invitarte.me/demo-less-ivan)
+22:11:50	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/2146F61D-D586-4D51-BDBE-D2ACD2BFDBD1-scaled-1.jpeg (from https://invitarte.me/demo-less-ivan)
+22:11:50	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/EE20739D-3306-4F06-8A69-59ADAD3CB140-scaled-1.jpeg (from https://invitarte.me/demo-less-ivan)
+22:11:50	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/E020C001-B754-4285-9934-C5662D0C0980-scaled-1.jpeg (from https://invitarte.me/demo-less-ivan)
+22:11:50	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_3173.jpg (from https://invitarte.me/demo-less-ivan)
+22:11:52	Warning: 	Moved Permanently for https://invitarte.me/?p=35788
+22:11:52	Warning: 	File has moved from https://invitarte.me/?p=35788 to https://invitarte.me/demo-marlene-bruno
+22:11:52	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/3.1-1-scaled-1.jpg (from https://invitarte.me/demo-marlene-bruno)
+22:11:52	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/3.2-scaled-1.jpg (from https://invitarte.me/demo-marlene-bruno)
+22:11:52	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/3.3-scaled-1.jpg (from https://invitarte.me/demo-marlene-bruno)
+22:11:52	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/3-1-scaled-1.jpg (from https://invitarte.me/demo-marlene-bruno)
+22:11:52	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/3.55bruno-scaled-e1702671850720.jpg (from https://invitarte.me/demo-marlene-bruno)
+22:11:55	Warning: 	Moved Permanently for https://invitarte.me/?p=35936
+22:11:55	Warning: 	File has moved from https://invitarte.me/?p=35936 to https://invitarte.me/demo-constanza-oswaldo
+22:11:55	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003327-4.jpg (from https://invitarte.me/demo-constanza-oswaldo)
+22:11:55	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003327-5.jpg (from https://invitarte.me/demo-constanza-oswaldo)
+22:11:55	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003327-6.jpg (from https://invitarte.me/demo-constanza-oswaldo)
+22:11:55	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003327-7.jpg (from https://invitarte.me/demo-constanza-oswaldo)
+22:11:55	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003327-8.jpg (from https://invitarte.me/demo-constanza-oswaldo)
+22:11:55	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003327-9.jpg (from https://invitarte.me/demo-constanza-oswaldo)
+22:11:55	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003327-10.jpg (from https://invitarte.me/demo-constanza-oswaldo)
+22:11:55	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003327-1.jpg (from https://invitarte.me/demo-constanza-oswaldo)
+22:11:55	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003327-2.jpg (from https://invitarte.me/demo-constanza-oswaldo)
+22:11:56	Warning: 	Moved Permanently for https://invitarte.me/?p=35894
+22:11:56	Warning: 	File has moved from https://invitarte.me/?p=35894 to https://invitarte.me/demo-alejandra-jorge
+22:11:56	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003387-1.jpeg (from https://invitarte.me/demo-alejandra-jorge)
+22:11:56	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003387-portada-scaled-1.jpeg (from https://invitarte.me/demo-alejandra-jorge)
+22:11:56	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003387-3.jpeg (from https://invitarte.me/demo-alejandra-jorge)
+22:11:56	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003387-4.jpeg (from https://invitarte.me/demo-alejandra-jorge)
+22:11:56	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003387-7.jpeg (from https://invitarte.me/demo-alejandra-jorge)
+22:11:56	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003387-9.jpeg (from https://invitarte.me/demo-alejandra-jorge)
+22:11:56	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/003387-10.jpeg (from https://invitarte.me/demo-alejandra-jorge)
+22:11:57	Warning: 	Moved Permanently for https://invitarte.me/?p=35558
+22:11:57	Warning: 	File has moved from https://invitarte.me/?p=35558 to https://invitarte.me/demo-grecia-jonathan
+22:11:57	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/N-145-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-grecia-jonathan)
+22:11:57	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/N-33-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-grecia-jonathan)
+22:11:57	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/N-149-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-grecia-jonathan)
+22:11:57	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/N-170-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-grecia-jonathan)
+22:11:57	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/N-178-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-grecia-jonathan)
+22:11:57	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/N-236-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-grecia-jonathan)
+22:11:58	Warning: 	Moved Permanently for https://invitarte.me/?p=42132
+22:11:58	Warning: 	File has moved from https://invitarte.me/?p=42132 to https://invitarte.me/demo-johana-pablo
+22:11:58	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/002483-1-scaled-e1689870231192.jpg (from https://invitarte.me/demo-johana-pablo)
+22:11:58	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/002483-2-scaled-e1689870157791.jpg (from https://invitarte.me/demo-johana-pablo)
+22:11:58	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/002483-3-scaled-1.jpg (from https://invitarte.me/demo-johana-pablo)
+22:11:58	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/002483-4-scaled-1.jpg (from https://invitarte.me/demo-johana-pablo)
+22:11:58	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/002483-5-scaled-1.jpg (from https://invitarte.me/demo-johana-pablo)
+22:11:59	Warning: 	Moved Permanently for https://invitarte.me/?p=78557
+22:11:59	Warning: 	File has moved from https://invitarte.me/?p=78557 to https://invitarte.me/demo-paola-david
+22:11:59	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Paola-y-David-9-1.jpg (from https://invitarte.me/demo-paola-david)
+22:11:59	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Paola-y-David-8-1.jpg (from https://invitarte.me/demo-paola-david)
+22:11:59	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Paola-y-David-7-1.jpg (from https://invitarte.me/demo-paola-david)
+22:11:59	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Paola-y-David-4-1.jpg (from https://invitarte.me/demo-paola-david)
+22:11:59	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Paola-y-David-3-1.jpg (from https://invitarte.me/demo-paola-david)
+22:11:59	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Paola-y-David-2-1.jpg (from https://invitarte.me/demo-paola-david)
+22:11:59	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Paola-y-David-1-1.jpg (from https://invitarte.me/demo-paola-david)
+22:12:03	Warning: 	Moved Permanently for https://invitarte.me/?p=94729
+22:12:03	Warning: 	File has moved from https://invitarte.me/?p=94729 to https://invitarte.me/demo-edson-pamela
+22:12:03	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Edson-y-Pamela-9.jpg (from https://invitarte.me/demo-edson-pamela)
+22:12:03	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Edson-y-Pamela-7.jpg (from https://invitarte.me/demo-edson-pamela)
+22:12:03	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Edson-y-Pamela-6-e1734712560656.jpg (from https://invitarte.me/demo-edson-pamela)
+22:12:03	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Edson-y-Pamela-8-e1734712584771.jpg (from https://invitarte.me/demo-edson-pamela)
+22:12:03	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Edson-y-Pamela-5.jpg (from https://invitarte.me/demo-edson-pamela)
+22:12:03	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Edson-y-Pamela-4.jpg (from https://invitarte.me/demo-edson-pamela)
+22:12:03	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Edson-y-Pamela-3.jpg (from https://invitarte.me/demo-edson-pamela)
+22:12:03	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Edson-y-Pamela-2.jpg (from https://invitarte.me/demo-edson-pamela)
+22:12:04	Warning: 	Moved Permanently for https://invitarte.me/?p=80669
+22:12:04	Warning: 	File has moved from https://invitarte.me/?p=80669 to https://invitarte.me/demo-carolina-alejandro
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro18.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro14.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro13.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro12.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro9.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro8.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro6.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro17.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro16.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro15.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro11.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro10.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro7.jpg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro5.jpeg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro4.jpeg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro3.jpeg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Carolina-y-Alejandro2.jpeg (from https://invitarte.me/demo-carolina-alejandro)
+22:12:04	Warning: 	Moved Permanently for https://invitarte.me/?p=96167
+22:12:04	Warning: 	File has moved from https://invitarte.me/?p=96167 to https://invitarte.me/demo-zaira-azael
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-13.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-12.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-4.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-3.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-11.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-10.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-9.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-8.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-7.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-6.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-5.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-2.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:04	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/Zaira-y-Azael-1.jpg (from https://invitarte.me/demo-zaira-azael)
+22:12:05	Warning: 	Retry after error 500 (Internal Server Error) at link https://invitarte.me/wp-json/wp/v2/pages/18168 (from https://invitarte.me/cart)
+22:12:05	Warning: 	Moved Permanently for https://invitarte.me/?p=18168
+22:12:05	Warning: 	File has moved from https://invitarte.me/?p=18168 to https://invitarte.me/cart
+22:12:26	Warning: 	Moved Permanently for https://invitarte.me/?p=96791
+22:12:26	Warning: 	File has moved from https://invitarte.me/?p=96791 to https://invitarte.me/demo-xv-melissa
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-11.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-10.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-9.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-8.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-7.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-6.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-5.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-4.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-3.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-2.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:26	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/12/xv-demo-melissa-1.jpg (from https://invitarte.me/demo-xv-melissa)
+22:12:27	Warning: 	Moved Permanently for https://invitarte.me/?p=36045
+22:12:27	Warning: 	File has moved from https://invitarte.me/?p=36045 to https://invitarte.me/demo-majo
+22:12:27	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/0F5A2064-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-majo)
+22:12:27	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/0F5A2740-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-majo)
+22:12:27	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/0F5A2976-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-majo)
+22:12:28	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/0F5A2188-scaled-1-scaled-1.jpg (from https://invitarte.me/demo-majo)
+22:12:28	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/0F5A3074-scaled-1.jpg (from https://invitarte.me/demo-majo)
+22:12:28	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/0F5A2498-scaled-1.jpg (from https://invitarte.me/demo-majo)
+22:12:28	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/0F5A2459-scaled-1.jpg (from https://invitarte.me/demo-majo)
+22:12:28	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/0F5A2413-scaled-1.jpg (from https://invitarte.me/demo-majo)
+22:12:29	Warning: 	Moved Permanently for https://invitarte.me/?p=96809
+22:12:29	Warning: 	File has moved from https://invitarte.me/?p=96809 to https://invitarte.me/demo-xv-nicole
+22:12:29	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/AITANA-DEMO-007.webp (from https://invitarte.me/demo-xv-nicole)
+22:12:29	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/AITANA-DEMO-006-scaled.jpeg (from https://invitarte.me/demo-xv-nicole)
+22:12:29	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/AITANA-DEMO-005-scaled.jpeg (from https://invitarte.me/demo-xv-nicole)
+22:12:29	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/AITANA-DEMO-004-scaled.jpeg (from https://invitarte.me/demo-xv-nicole)
+22:12:29	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/AITANA-DEMO-003-scaled.jpeg (from https://invitarte.me/demo-xv-nicole)
+22:12:29	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/AITANA-DEMO-002-scaled.jpeg (from https://invitarte.me/demo-xv-nicole)
+22:12:29	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/AITANA-DEMO-001-scaled.jpeg (from https://invitarte.me/demo-xv-nicole)
+22:12:32	Warning: 	Moved Permanently for https://invitarte.me/?p=36088
+22:12:32	Warning: 	File has moved from https://invitarte.me/?p=36088 to https://invitarte.me/demo-emilia
+22:12:33	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_2102.jpg (from https://invitarte.me/demo-emilia)
+22:12:33	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_2103-1.jpg (from https://invitarte.me/demo-emilia)
+22:12:33	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_2104.jpg (from https://invitarte.me/demo-emilia)
+22:12:33	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_2105.jpg (from https://invitarte.me/demo-emilia)
+22:12:33	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_2108.jpg (from https://invitarte.me/demo-emilia)
+22:12:33	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_2110.jpg (from https://invitarte.me/demo-emilia)
+22:12:33	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_2111.jpg (from https://invitarte.me/demo-emilia)
+22:12:34	Warning: 	Moved Permanently for https://invitarte.me/?p=36115
+22:12:34	Warning: 	File has moved from https://invitarte.me/?p=36115 to https://invitarte.me/demo-ana-sofia
+22:12:34	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Sofi0066-Editar-Editar-scaled-1.jpg (from https://invitarte.me/demo-ana-sofia)
+22:12:34	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Sofi0091-Editar-Editar-scaled-1.jpg (from https://invitarte.me/demo-ana-sofia)
+22:12:34	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Sofi0120-Editar-Editar-scaled-1.jpg (from https://invitarte.me/demo-ana-sofia)
+22:12:35	Warning: 	Moved Permanently for https://invitarte.me/?p=36158
+22:12:35	Warning: 	File has moved from https://invitarte.me/?p=36158 to https://invitarte.me/demo-camila
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/CAMILA-DEMO-010.jpg (from https://invitarte.me/demo-camila)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/CAMILA-DEMO-009.jpg (from https://invitarte.me/demo-camila)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/CAMILA-DEMO-008.jpg (from https://invitarte.me/demo-camila)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/CAMILA-DEMO-007.jpg (from https://invitarte.me/demo-camila)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/CAMILA-DEMO-006.jpg (from https://invitarte.me/demo-camila)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/CAMILA-DEMO-005.jpg (from https://invitarte.me/demo-camila)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/CAMILA-DEMO-003.jpg (from https://invitarte.me/demo-camila)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/CAMILA-DEMO-002.jpg (from https://invitarte.me/demo-camila)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/CAMILA-DEMO-001.jpg (from https://invitarte.me/demo-camila)
+22:12:35	Warning: 	Moved Permanently for https://invitarte.me/?p=36069
+22:12:35	Warning: 	File has moved from https://invitarte.me/?p=36069 to https://invitarte.me/demo-paulina
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_5998-scaled-1.jpg (from https://invitarte.me/demo-paulina)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_5995-scaled-1.jpg (from https://invitarte.me/demo-paulina)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_5994-scaled-1.jpg (from https://invitarte.me/demo-paulina)
+22:12:35	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/IMG_5990-scaled-1.jpg (from https://invitarte.me/demo-paulina)
+22:12:37	Warning: 	Moved Permanently for https://invitarte.me/?p=36151
+22:12:37	Warning: 	File has moved from https://invitarte.me/?p=36151 to https://invitarte.me/demo-regina
+22:12:38	Warning: 	Moved Permanently for https://invitarte.me/?p=42185
+22:12:38	Warning: 	File has moved from https://invitarte.me/?p=42185 to https://invitarte.me/demo-anna
+22:12:38	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/ANA-DEMO-007.jpg (from https://invitarte.me/demo-anna)
+22:12:38	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/ANA-DEMO-006.jpg (from https://invitarte.me/demo-anna)
+22:12:38	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/ANA-DEMO-005.jpg (from https://invitarte.me/demo-anna)
+22:12:38	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/ANA-DEMO-004.jpg (from https://invitarte.me/demo-anna)
+22:12:38	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/ANA-DEMO-003.jpg (from https://invitarte.me/demo-anna)
+22:12:38	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/ANA-DEMO-002.jpg (from https://invitarte.me/demo-anna)
+22:12:38	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/07/ANA-DEMO-001.jpg (from https://invitarte.me/demo-anna)
+22:12:40	Warning: 	Moved Permanently for https://invitarte.me/?p=36022
+22:12:40	Warning: 	File has moved from https://invitarte.me/?p=36022 to https://invitarte.me/demo-aranza
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-1.jpg (from https://invitarte.me/demo-aranza)
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-2.jpg (from https://invitarte.me/demo-aranza)
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-3.jpg (from https://invitarte.me/demo-aranza)
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-4.jpg (from https://invitarte.me/demo-aranza)
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-5.jpg (from https://invitarte.me/demo-aranza)
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-6.jpg (from https://invitarte.me/demo-aranza)
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-7.jpg (from https://invitarte.me/demo-aranza)
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-8.jpg (from https://invitarte.me/demo-aranza)
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-9.jpg (from https://invitarte.me/demo-aranza)
+22:12:40	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2024/06/Aranza-10.jpg (from https://invitarte.me/demo-aranza)
+22:12:41	Warning: 	Moved Permanently for https://invitarte.me/?p=82849
+22:12:41	Warning: 	File has moved from https://invitarte.me/?p=82849 to https://invitarte.me/demo-naomi
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Naomi-8-scaled.jpg (from https://invitarte.me/demo-naomi)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Naomi-7-scaled.jpg (from https://invitarte.me/demo-naomi)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Naomi-6-scaled.jpg (from https://invitarte.me/demo-naomi)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Naomi-5-scaled.jpg (from https://invitarte.me/demo-naomi)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Naomi-4-scaled.jpg (from https://invitarte.me/demo-naomi)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Naomi-3-scaled.jpg (from https://invitarte.me/demo-naomi)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Naomi-2-scaled.jpg (from https://invitarte.me/demo-naomi)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Naomi-1-scaled.jpg (from https://invitarte.me/demo-naomi)
+22:12:41	Warning: 	Moved Permanently for https://invitarte.me/?p=82289
+22:12:41	Warning: 	File has moved from https://invitarte.me/?p=82289 to https://invitarte.me/demo-bella
+22:12:41	Warning: 	Moved Permanently for https://invitarte.me/?p=101780
+22:12:41	Warning: 	File has moved from https://invitarte.me/?p=101780 to https://invitarte.me/demo-alisson
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Alisson-7.jpg (from https://invitarte.me/demo-alisson)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Alisson-2.jpg (from https://invitarte.me/demo-alisson)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Alisson-3.jpg (from https://invitarte.me/demo-alisson)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Alisson-4.jpg (from https://invitarte.me/demo-alisson)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Alisson-6.jpg (from https://invitarte.me/demo-alisson)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Alisson-5.jpg (from https://invitarte.me/demo-alisson)
+22:12:41	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Alisson-1.jpg (from https://invitarte.me/demo-alisson)
+22:12:42	Warning: 	Moved Permanently for https://invitarte.me/?p=101144
+22:12:42	Warning: 	File has moved from https://invitarte.me/?p=101144 to https://invitarte.me/demo-elisa
+22:12:42	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-10.jpg (from https://invitarte.me/demo-elisa)
+22:12:42	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-9.jpg (from https://invitarte.me/demo-elisa)
+22:12:42	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-8.jpg (from https://invitarte.me/demo-elisa)
+22:12:42	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-7.jpg (from https://invitarte.me/demo-elisa)
+22:12:42	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-6.jpg (from https://invitarte.me/demo-elisa)
+22:12:42	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-5.jpg (from https://invitarte.me/demo-elisa)
+22:12:42	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-4.jpg (from https://invitarte.me/demo-elisa)
+22:12:43	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-3.jpg (from https://invitarte.me/demo-elisa)
+22:12:43	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-2.jpg (from https://invitarte.me/demo-elisa)
+22:12:43	Error: 	"Not Found" (404) at link https://invitarte.me/https:/invitarte.me/wp-content/uploads/2025/01/Elisa-demo-vx-1.jpg (from https://invitarte.me/demo-elisa)
+22:12:43	Warning: 	Moved Permanently for https://invitarte.me/?p=67068
+22:12:43	Warning: 	File has moved from https://invitarte.me/?p=67068 to https://invitarte.me/xvs
+22:12:43	Warning: 	Moved Permanently for https://invitarte.me/libro-de-boda/
+22:12:43	Warning: 	File has moved from https://invitarte.me/libro-de-boda/ to https://invitarte.me/libro-de-boda
+22:12:55	Error: 	"Not Found" (404) at link https://invitarte.me/wp-content/uploads/2024/07/LOGOVERTICAL-1.mp4 (from https://invitarte.me/xvs)
+22:12:55	Error: 	"Not Found" (404) at link https://invites-now.com/wp-content/uploads/2022/06/Back_oro.png (from https://invitarte.me/wp-content/uploads/elementor/css/post-35936.css?ver=1759342580)
+22:12:55	Warning: 	Retry after error 500 (Internal Server Error) at link https://invitarte.me/wp-json/wp/v2/pages/18168 (from https://invitarte.me/cart)
+22:12:56	Warning: 	Moved Permanently for https://invitarte.me/?p=67067
+22:12:56	Warning: 	File has moved from https://invitarte.me/?p=67067 to https://invitarte.me/home-boda
+22:12:56	Error: 	"Not Found" (404) at link https://invitarte.me/product/invitacion-de-boda-v2 (from https://invitarte.me/home-boda)
+22:12:56	Error: 	"Not Found" (404) at link https://invitarte.me/catalogo-invitaciones-de-boda (from https://invitarte.me/home-boda)
+22:12:56	Error: 	"Not Found" (404) at link https://invitarte.me/contacts/ (from https://invitarte.me/home-boda)
+22:12:56	Error: 	"Not Found" (404) at link https://invites-now.com/wp-content/uploads/2022/07/color_metal.png (from https://invitarte.me/wp-content/uploads/elementor/css/post-36088.css?ver=1759349044)
+22:12:56	Error: 	"Not Found" (404) at link https://invites-now.com/wp-content/uploads/2022/07/Azul_metalico.png (from https://invitarte.me/wp-content/uploads/elementor/css/post-36088.css?ver=1759349044)
+22:12:56	Warning: 	Moved Permanently for https://invitarte.me/?p=39935
+22:12:56	Warning: 	File has moved from https://invitarte.me/?p=39935 to https://invitarte.me/intro
+22:12:56	Error: 	"Not Found" (404) at link https://invitarte.me/wp-content/uploads/2024/06/002454-5.jpg (from https://invitarte.me/intro)
+22:12:56	Error: 	"Not Found" (404) at link https://invitarte.me/wp-content/uploads/2024/06/002335-4.jpg (from https://invitarte.me/intro)
+22:12:56	Warning: 	Moved Permanently for https://invitarte.me/?p=35020
+22:12:56	Warning: 	File has moved from https://invitarte.me/?p=35020 to https://invitarte.me/libro-de-boda
+22:12:57	Error: 	"Internal Server Error" (500) after 2 retries at link https://invitarte.me/wp-json/wp/v2/pages/18168 (from https://invitarte.me/cart)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 56 seconds : 1295 links scanned, 1027 files written (293126127 bytes overall) [273712609 bytes received at 382280 bytes/sec], 81260978 bytes transferred using HTTP compression in 655 files, ratio 22%, 32.5 requests per connection
+(216 errors, 98 warnings, 0 messages)
